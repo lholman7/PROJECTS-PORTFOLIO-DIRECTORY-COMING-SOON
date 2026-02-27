@@ -1,2 +1,2 @@
-# PROJECTS-PORTFOLIO-COMING-SOON-
-This will include brief projects that I am working on and have completed. 
+# PROJECTS-PORTFOLIO-DIRECTORY-COMING-SOON
+This will include brief project directory of completed and uncompleted productions. 
