@@ -20,8 +20,8 @@ Welcome to my portfolio! I specialize in digital forensics, incident response, a
 - **Tools**: Wireshark, OpenStack CLI, MITRE ATT&CK Navigator
 - **[View Repository →](https://github.com/lholman7/vantage-breach-incident-report)**
 
-### 🔒 [Next Project Company Policy](https://github.com/lholman7/company-policy-release)
-- *All IT and acceptable use…*
+### 🔒 [Next Project IT Policy's](https://github.com/lholman7/company-policy-release)
+- *All IT and acceptable use policies alongside company continuity plans…*
 
 ## 📫 Contact
 - [LinkedIn](...)
