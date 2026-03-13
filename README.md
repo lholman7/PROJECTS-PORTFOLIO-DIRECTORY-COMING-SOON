@@ -6,7 +6,7 @@ Welcome to my portfolio! I specialize in digital forensics, incident response, a
 - **Forensics**: Wireshark, Volatility, FTK Imager
 - **Cloud Security**: OpenStack, AWS, Keystone API
 - **Frameworks**: MITRE ATT&CK, NIST Cybersecurity Framework
-- **Languages**: Python, Bash, SQL
+- **Languages**: Java, Python, Bash, SQL
 
 ## 📂 Featured Projects
 
